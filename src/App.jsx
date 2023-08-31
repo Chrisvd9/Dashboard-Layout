@@ -104,7 +104,7 @@ function App() {
               <Card>
                 <CardHeader className="flex justify-between gap-3 p-4">
                   <WarningIcon className="w-8 h-8 text-red-500" />
-                  <h4 className="text-lg font-semibold">Perdidas</h4>
+                  <h4 className="text-lg font-semibold">Pérdidas</h4>
                   <Button isIconOnly className="bg-white">
                     <AjusteIcon className="w-6 h-6" />
                   </Button>
