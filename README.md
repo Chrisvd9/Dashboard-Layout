@@ -8,7 +8,7 @@ Observaciones con NextUI (Septiembre - 2023):
 - No pude utilizar una Card de NextUI con los gráficos se buguea.
 
 
-:point_right: [Live preview]()
+:point_right: [Live preview](https://dashboard-layout-sigma.vercel.app/)
 
 Imagen 1:
 ![screenShot01](image/dashboard-layout.png)
