@@ -45,13 +45,6 @@ function App() {
     };
   }, []);
 
-  const data1 = {
-    labels: ["Ganancias", "Perdidas"],
-    dataValues: [71, 30],
-    backgroundColors: ["#F7992B", "#9E77EC"],
-    borderColors: ["#F7992B", "#9E77EC"],
-  };
-
   return (
     <div className="flex">
       <Transition
